@@ -1,5 +1,3 @@
 # Hi there 👋
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?text=Hey¡Todos! 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20Elisabeth&fontSize=90)
